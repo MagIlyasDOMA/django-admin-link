@@ -9,3 +9,4 @@ db.sqlite3
 /django_admin_link.egg-info/
 /.idea
 /admin_link/__pycache__
+/django_admin_panel_link.egg-info

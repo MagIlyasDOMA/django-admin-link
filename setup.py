@@ -3,7 +3,7 @@ from pip_setuptools import setup, find_packages, clean
 clean()
 setup(
     name='django-admin-panel-link',
-    version='1.0.1',
+    version='1.0.2',
     author='Маг Ильяс DOMA (MagIlyasDOMA)',
     author_email='magilyas.doma.09@list.ru',
     url='https://github.com/MagIlyasDOMA/django-admin-link',
