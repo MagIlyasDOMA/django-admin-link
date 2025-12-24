@@ -1,0 +1,10 @@
+.idea/
+.venv/
+/app_test/
+manage.py
+/templates/
+db.sqlite3
+/build/
+/dist/
+/django_admin_link.egg-info/
+/.idea
