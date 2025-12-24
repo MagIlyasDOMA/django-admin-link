@@ -8,3 +8,4 @@ db.sqlite3
 /dist/
 /django_admin_link.egg-info/
 /.idea
+/admin_link/__pycache__

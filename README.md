@@ -1,18 +1,19 @@
-# Django Admin Link
-**Django Admin Link** — это простое и удобное Django-приложение, которое добавляет в ваш шаблон ссылку на административную панель Django. Ссылка автоматически отображается только авторизованным пользователям с соответствующими правами (персонал или суперпользователи).
+# Django Admin Panel Link
+**Django Admin Panel Link** — это простое и удобное Django-приложение, которое добавляет в ваш шаблон ссылку на административную панель Django. Ссылка автоматически отображается только авторизованным пользователям с соответствующими правами (персонал или суперпользователи).
 
 ## Установка
 Установите пакет через pip:
 ```shell
-pip install django-admin-link
+pip install django-admin-panel-link
 ```
 
 ## Настройка
 #### Добавьте `admin_link` в `INSTALLED_APPS` в вашем `settings.py`:
+
 ```python
 INSTALLED_APPS = [
     # ...
-    'admin_link',
+    'admin_panel_link',
     # ...
 ]
 ```
@@ -93,9 +94,10 @@ django-admin-link/
 ---
 
 #### Быстрый старт:
+
 ```python
 # settings.py
-INSTALLED_APPS = ['admin_link', ...]
+INSTALLED_APPS = ['admin_panel_link', ...]
 ```
 ```html
 <!-- base.html -->
