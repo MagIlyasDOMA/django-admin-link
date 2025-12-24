@@ -6,7 +6,7 @@ setup(
     version='1.0.0',
     author='Маг Ильяс DOMA (MagIlyasDOMA)',
     author_email='magilyas.doma.09@list.ru',
-    url='https://github.com/magilyasdoma/django-admin-link',
+    url='https://github.com/MagIlyasDOMA/django-admin-link',
     packages=find_packages(exclude=['app_test']),
     include_package_data=True,
     license='MIT',
